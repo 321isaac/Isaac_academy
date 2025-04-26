@@ -24,7 +24,7 @@ int main(void)
 			i++;
 			cnt++;
 		}
-		if (sum > k - p) result++;
+		if (sum > k - p) result++; 
 		cnt = 0;
 		sum = 0;
 	}
